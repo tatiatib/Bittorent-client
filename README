@@ -1,0 +1,8 @@
+ბიბლიოთეკები:
+	bitstring  --  pip install bitstring
+
+​ path/to/save/dir   --  გაშვებისას  / არგუმენტი გულისხმობს current working directory -ს ან
+			 ეთითება relative path  save directory -მდე;
+			მაგალითად: ../bittorent/files/
+	
+	
